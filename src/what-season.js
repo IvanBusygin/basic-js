@@ -46,7 +46,7 @@ function getSeason(date) {
             season = 'autumn';
             break;
     }
-    console.log(season)
+    // console.log(season)
     return season
 }
 
